@@ -2,6 +2,9 @@
 
 This theme has been created to show an implementation of theme blocks. It is designed as a supplement to the [theme block documentation](https://shopify.dev/docs/themes/architecture/blocks/theme-blocks) and can be used as both a reference and a starting point for theme developers to experiment with the new feature.
 
+# Demo theme URL
+URL: https://style-settings-poc.myshopify.com/
+
 # Getting the reference theme
 
 To install the reference theme, [create a new development store](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores) and select the "Theme blocks" developer preview.
