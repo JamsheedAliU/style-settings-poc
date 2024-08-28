@@ -4,6 +4,7 @@ This theme has been created to show an implementation of theme blocks. It is des
 
 # Demo theme URL
 URL: https://style-settings-poc.myshopify.com/
+Pass: corra
 
 # Getting the reference theme
 
