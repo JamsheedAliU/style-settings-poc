@@ -24,12 +24,12 @@
         "9358ead7-959e-4cdd-b971-5a08e53c7729"
       ],
       "settings": {
+        "spacing": {
+          "padding": "6px 0"
+        },
         "layout": {
           "flex-direction": "row",
           "justify-content": "center"
-        },
-        "spacing": {
-          "padding": "6px 0"
         },
         "color_scheme": "scheme-2"
       }
@@ -40,19 +40,18 @@
         "group_QwzE6T": {
           "type": "group",
           "settings": {
-            "layout": {
-              "flex-direction": "row",
-              "justify-content": "flex-start"
-            },
             "size": {
               "width": "20%",
-
               "@media (--mobile)": {
                 "width": "100%"
               }
             },
             "spacing": {
               "padding": "0"
+            },
+            "layout": {
+              "flex-direction": "row",
+              "justify-content": "flex-start"
             }
           },
           "blocks": {
@@ -72,23 +71,21 @@
         "group_MMGbDg": {
           "type": "group",
           "settings": {
-            "layout": {
-              "flex-direction": "row",
-              "justify-content": "flex-end",
-
-              "@media (--mobile)": {
-                "justify-content": "flex-start"
-              }
-            },
             "size": {
               "width": "80%",
-
               "@media (--mobile)": {
                 "width": "100%"
               }
             },
             "spacing": {
               "padding": "0"
+            },
+            "layout": {
+              "flex-direction": "row",
+              "justify-content": "flex-end",
+              "@media (--mobile)": {
+                "justify-content": "flex-start"
+              }
             },
             "color_scheme": ""
           },
@@ -139,12 +136,12 @@
         "group_MMGbDg"
       ],
       "settings": {
+        "spacing": {
+          "padding": "30px 20px"
+        },
         "layout": {
           "flex-direction": "row",
           "justify-content": "space-between"
-        },
-        "spacing": {
-          "padding": "30px 20px"
         },
         "color_scheme": ""
       }
